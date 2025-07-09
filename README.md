@@ -62,10 +62,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manyasri02&theme=tokyonight" alt="Manyasri02" />
 </p>
 
-<p align="center"> 
-  <b>Visitors Count</b><br>
-  <img src="https://profile-counter.glitch.me/Manyasri02/count.svg" />
-</p>
 
 ### 🤝 Connect with me:
 <p align="left">
